@@ -1,4 +1,4 @@
-# Joao Guilher.me
+# ```Joao Guilher.me ```
 
 👋 Hi, I'm João Guilherme. I'm a React and React Native Developer. 
 I have worked as a freelancer since 2013 building, more than 100 projects, from landing page, eCommerce (Woocomerce, Magento, Shopify), mobile apps, to an intranet with more than 10.000 users.
