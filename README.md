@@ -1,7 +1,9 @@
 # ```Joao Guilher.me ```
 
 👋 Hi, I'm João Guilherme. I'm a React Developer. 
-I have been working as a freelancer since 2013 building more than 100 projects, from landing pages, eCommerce (Woocommerce, Magento, Shopify), mobile apps, to an intranet with more than 10.000 users.
+--
+I have been working in an IT consulting company since 2013 delivering technical solutions for great companies as Dell, ThyssenKrupp, BTG Bank, Bank of Brazil, and others.
+
 
 ## More About Me
 - 👶🏻 My first experience  as a developer was around 2001, when I built for fun a website in [HTML tables for page layout before the tableless](https://en.wikipedia.org/wiki/Tableless_web_design), to show some street arts. Someday I will try to find this code and push it here.
