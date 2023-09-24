@@ -4,7 +4,7 @@
 --
 I have been working in an IT consulting company since 2013 delivering technical solutions for great companies as Dell, ThyssenKrupp, BTG Bank, Bank of Brazil, and others.
 
-[Meta Front-End Developer Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/DET9LZTBQBZQ)
+[Meta Front-End Developer Certificate](https://coursera.org/share/96dbee7a92a28a8aa3b8604e605c7e2e)
 
 ![Meta Front-End Developer Certificate](https://images.credly.com/size/220x220/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png)
 
