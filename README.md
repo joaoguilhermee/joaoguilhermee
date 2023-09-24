@@ -4,9 +4,8 @@
 --
 I have been working in an IT consulting company since 2013 delivering technical solutions for great companies as Dell, ThyssenKrupp, BTG Bank, Bank of Brazil, and others.
 
-[Meta Front-End Developer Certificate](https://coursera.org/share/96dbee7a92a28a8aa3b8604e605c7e2e)
+[![Meta Front-End Developer Certificate](https://images.credly.com/size/150x150/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png)](https://coursera.org/share/96dbee7a92a28a8aa3b8604e605c7e2e)
 
-![Meta Front-End Developer Certificate](https://images.credly.com/size/220x220/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png)
 
 ## More About Me
 - 👶🏻 My first experience  as a developer was around 2001, when I built for fun a website in [HTML tables for page layout before the tableless](https://en.wikipedia.org/wiki/Tableless_web_design), to show some street arts. Someday I will try to find this code and push it here.
